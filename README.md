@@ -1,2 +1,2 @@
 # victoria-travel-planner
-AI testing
+Victorians' personal travel planner
